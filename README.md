@@ -1,6 +1,6 @@
-Interactive BlackJack project! 
+## Interactive BlackJack project! 
 
-What is BlackJack? 
+## What is BlackJack? 
 Blackjack is a popular card game played in casinos and at home where players try to beat the dealer by getting a hand value as close to 21 as possible without going over.
 
 On your turn, you can:
@@ -11,7 +11,7 @@ If your total goes over 21, you bust and lose. After players finish, the dealer 
 
 A Blackjack is an Ace plus a 10-value card (10, J, Q, or K) as your first two cards. 
 
-Blackjack Card Values
+## Blackjack Card Values
 2–10:	Face value (2–10)
 Jack (J):	10
 Queen (Q):	10
